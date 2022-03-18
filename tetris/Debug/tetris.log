@@ -1,0 +1,11 @@
+﻿  FPS.cpp
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\FPS.h(10,2): warning C4091: 'static ': ignored on left of 'FPS' when no variable is declared
+  Game.cpp
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\FPS.h(10,2): warning C4091: 'static ': ignored on left of 'FPS' when no variable is declared
+  Tetris.cpp
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\FPS.h(10,2): warning C4091: 'static ': ignored on left of 'FPS' when no variable is declared
+  main.cpp
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\FPS.h(10,2): warning C4091: 'static ': ignored on left of 'FPS' when no variable is declared
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  tetris.vcxproj -> C:\Users\oleksii.mykhalchuk\source\repos\tetris\Debug\tetris.exe

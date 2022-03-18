@@ -1,0 +1,2 @@
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\Debug\tetris.exe
+C:\Users\oleksii.mykhalchuk\source\repos\tetris\Debug\tetris.pdb
