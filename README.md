@@ -1,7 +1,7 @@
 # WindowsConsoleTetris
 The Code was written following Youtube videos by Bohdan Solonenko
 
-https://www.youtube.com/watch?v=AwfbAojhMqI - Lesson 1
+https://www.youtube.com/watch?v=AwfbAojhMqI - Lesson 1 \n
 https://www.youtube.com/watch?v=hmzQCDT8gjY - Lesson 2
 https://www.youtube.com/watch?v=eKP9lbOKmyo - Lesson 3
 https://www.youtube.com/watch?v=r8XvaWIaBUw - Lesson 4
